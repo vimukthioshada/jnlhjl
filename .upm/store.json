@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"5b4113a0f53d34bc823346b8d73e49a9","lockfileHash":"31cc75969d080ceaa3c1954919bf98aa","guessedImports":["mongoose","wa-sticker-formatter","dotenv","pino","express","qrcode-terminal","@whiskeysockets/baileys","body-parser","fluent-ffmpeg","file-type","megajs","axios"],"guessedImportsHash":"b6158bb4bbd80e9382bbc1d6507ab3ca"}}}
