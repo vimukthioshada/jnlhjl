@@ -4,9 +4,7 @@
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name CHAMI_MD",
-    "stop": "pm2 stop CHAMI_MD",
-    "restart": "pm2 restart CHAMI_MD"
+    "start": "start index.js"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
