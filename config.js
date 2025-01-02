@@ -8,7 +8,7 @@ function convertToBool(text, fault = "true") {
 module.exports = {
     SESSION_ID:
         process.env.SESSION_ID ||
-        "h6tQVAJb#9J-kMJ_k9JsqfoIiLCZMfnWSfrVE6rqnUebz41yWeys",
+        "vqpzCabQ#ukM1t9lstF8BvMVWVADIyF8NaEJtvc9lniBAi0f1ZX8",
     MONGODB:
         process.env.MONGODB ||
         "mongodb+srv://Oshada2005:Oshada2005@cluster2005.kuyvoqh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster2005",
